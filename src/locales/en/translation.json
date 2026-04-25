@@ -1,0 +1,11 @@
+{
+  "errors": {
+    "oops": "Oops!",
+    "500": {
+      "title": "Something went wrong",
+      "description": "An unexpected error occurred. Try refreshing the page, or contact us at {{email}} if the problem persists.",
+      "go-home": "Go to homepage",
+      "refresh": "Refresh page"
+    }
+  }
+}

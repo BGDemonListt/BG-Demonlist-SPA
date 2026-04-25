@@ -1,5 +1,6 @@
-import { Link } from 'react-router'
+import { Link } from 'react-router';
 
+// TODO: i18n
 export default function NotFound() {
   return (
     <div className="flex flex-col items-center justify-center min-h-[60vh] gap-4 text-center px-4">
@@ -7,10 +8,9 @@ export default function NotFound() {
       <p className="text-xl text-gray-600 dark:text-gray-400">Page not found</p>
       <Link
         to="/"
-        className="mt-2 px-5 py-2.5 rounded-lg bg-indigo-600 text-white font-medium hover:bg-indigo-700 transition-colors"
-      >
+        className="mt-2 px-5 py-2.5 rounded-lg bg-indigo-600 text-white font-medium hover:bg-indigo-700 transition-colors">
         Go Home
       </Link>
     </div>
-  )
+  );
 }
