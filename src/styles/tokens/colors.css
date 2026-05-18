@@ -1,0 +1,13 @@
+@theme static {
+  --color-red: #f9133e;
+  --color-blue: #1f50ff;
+  --color-white: #ffffff;
+  --color-bg: #0c0d0f;
+  --color-box: #14141a;
+  --color-box-outline: #313140;
+  --color-highlight-box: #22222a;
+  --color-content-box: #1b1b23;
+  --color-box-red: #1a1414;
+  --color-box-red-outline: #403131;
+  --color-text-gray: #878787;
+}

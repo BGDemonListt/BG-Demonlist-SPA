@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700&family=Montserrat:wght@300;400;500;600;700&family=Orbitron:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&family=Rajdhani:wght@300;400;500;600;700&display=swap");
+
+@theme static {
+  --font-sans: "Exo 2", "Rajdhani", "Orbitron", "Poppins", "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-exo: "Exo 2", "Rajdhani", "Orbitron", "Poppins", "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Exo 2", "Rajdhani", "Orbitron", "Poppins", "Montserrat", ui-sans-serif, system-ui, sans-serif;
+
+  --text-h1: 4rem;
+  --text-h1--line-height: 4.375rem;
+  --text-h1--letter-spacing: 0;
+  --text-h1--font-weight: 700;
+
+  --text-h2: 2.75rem;
+  --text-h2--line-height: 3.0625rem;
+  --text-h2--letter-spacing: 0;
+  --text-h2--font-weight: 600;
+
+  --text-h3: 2rem;
+  --text-h3--line-height: 2rem;
+  --text-h3--letter-spacing: 0;
+  --text-h3--font-weight: 600;
+
+  --text-h4: 1.5rem;
+  --text-h4--line-height: 2rem;
+  --text-h4--letter-spacing: 0;
+  --text-h4--font-weight: 500;
+
+  --text-h5: 1.125rem;
+  --text-h5--line-height: 2rem;
+  --text-h5--letter-spacing: 0;
+  --text-h5--font-weight: 500;
+
+  --text-p: 1rem;
+  --text-p--line-height: 1.25rem;
+  --text-p--letter-spacing: 0;
+  --text-p--font-weight: 300;
+
+  --text-p2: 0.875rem;
+  --text-p2--line-height: 1.25rem;
+  --text-p2--letter-spacing: 0;
+  --text-p2--font-weight: 300;
+
+  --text-button: 0.875rem;
+  --text-button--line-height: 1.25rem;
+  --text-button--letter-spacing: 0;
+  --text-button--font-weight: 600;
+}
